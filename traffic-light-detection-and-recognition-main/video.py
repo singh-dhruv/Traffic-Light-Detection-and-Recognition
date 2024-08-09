@@ -143,11 +143,6 @@ def max(a, b):
 
 if __name__ == '__main__':
     
-     #sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-     #print("socket crerated...")
-     #sock.connect((HOST, PORT))
-     #print("socket connect complete...")
-
      redLight = 0
      greenLight = 0
      yellowLight = 0
