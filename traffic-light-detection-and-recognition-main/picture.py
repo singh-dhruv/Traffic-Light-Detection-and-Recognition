@@ -135,7 +135,7 @@ def detect(filepath, file):
 ##            return "YELLOW",cimg
 ##        else:
 ##            continue
-
+    
     return "NONE",img
 
 def max(a, b):
@@ -143,7 +143,6 @@ def max(a, b):
         return a
     else: 
         return b
-
 if __name__ == '__main__':
     
     #sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
