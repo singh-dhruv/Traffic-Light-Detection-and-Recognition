@@ -133,7 +133,6 @@ def detect(frame):
             continue
     return "NONE",frame
 
-
 def max(a, b):
     if a>b:
         return a
