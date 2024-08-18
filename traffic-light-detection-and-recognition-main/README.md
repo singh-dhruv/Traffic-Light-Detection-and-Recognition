@@ -1,2 +1,2 @@
 # Traffic-Lights-Detection-and-Recognition
-detect the position of traffic light in scene, and recognize the color of it.
+Detects the prescence of traffic light in scene, and recognize the color of it to act accordingly.
