@@ -1,1 +1,1 @@
-simple project on Traffic Light Detection and Recognition 
+Simple project on Traffic Light Detection and Recognition 
